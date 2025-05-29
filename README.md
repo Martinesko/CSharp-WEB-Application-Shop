@@ -119,5 +119,5 @@ You can modify the `DbInitializer.cs` or seeding logic to automatically create a
 
 ## 🧑‍💻 Author
 
-**Martinesko**  
+**Martin Anev**  
 [GitHub Repository](https://github.com/Martinesko/CSharp-WEB-Application-Shop)
